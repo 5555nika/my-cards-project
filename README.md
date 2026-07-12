@@ -2,6 +2,11 @@
 
  A simple interactive web application for managing a collection of cards.
 
+ 
+ # How to Run
+🚀  [Посмотреть проект вживую (Live Demo)](https://5555nika.github.io/Accordion/) 
+
+
  ## Features
 
  - Add new cards with a title, image path, and description.
