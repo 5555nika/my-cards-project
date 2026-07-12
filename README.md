@@ -4,7 +4,7 @@
 
  
  # How to Run
-🚀  [Посмотреть проект вживую (Live Demo)](https://5555nika.github.io/Accordion/) 
+🚀  [Посмотреть проект вживую (Live Demo)](https://5555nika.github.io/my-cards-project/) 
 
 
  ## Features
